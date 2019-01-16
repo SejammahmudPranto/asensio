@@ -78,7 +78,7 @@ void rturn(){
 
 void lturn() {
   rmfor();
-  lmrev();
+  lmstop ();
 }
 
 void blturn() {
